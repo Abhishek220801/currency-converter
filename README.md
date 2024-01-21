@@ -1,4 +1,4 @@
-# Currency Converter App
+# Currensee Exchange (Currency Converter)
 
 ## Overview
 
